@@ -1,0 +1,50 @@
+section {
+  padding: 60px 0;
+}
+
+p {
+  font-family: raleway;
+  font-size: 18px;
+}
+
+#main-nav {
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-family: Tilt Warp;
+  font-size: 30px;
+}
+
+h1,
+h2,
+h5 {
+  font-family: Tilt Warp;
+}
+
+#intro {
+  background-image: url(imagens/intro-bg.jpg);
+  background-size: cover;
+}
+
+#height {
+  min-height: 400px;
+}
+
+#movie-content,
+#key-scenes-content {
+  background-color: #003153;
+}
+
+#the-movie,
+#key-scenes,
+#director-profile {
+  background-color: #333333;
+}
+
+#movie-poster-bg {
+  background-image: url(imagens/screamingwomanbnw.jpeg);
+  background-size: cover;
+  display: flex;
+  min-width: 500px;
+}
